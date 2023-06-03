@@ -20,7 +20,7 @@
 
 function whatToDoForLunch(hungry, availableTime) {
   if (!hungry) {
-    console.log("Hey, Get back to work");
+    console.log("Hey, Get back to work.");
   }
 
   else {
